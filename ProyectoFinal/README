@@ -1,1 +1,23 @@
+# Proyecto de Visión por Ordenador - Análisis de Velocidad de Coches
+
+Este proyecto utiliza técnicas de visión por ordenador para analizar la velocidad de los coches en un circuito. El sistema detecta el paso de un coche por dos líneas de barrera y calcula su velocidad en función del tiempo que tarda en recorrer la distancia entre ambas barreras.
+
+## Ficheros Utilizados
+
+A continuación, se describen los principales ficheros utilizados en este proyecto:
+
+- **`radar.py`**: Este archivo contiene el código principal para procesar los frames de video, detectar los coches y calcular la velocidad en base a su desplazamiento a través de las barreras.
+  
+- **`rastreador.py`**: Implementa el algoritmo de seguimiento de objetos (coches) en los frames del video, permitiendo identificar cada coche y su trayectoria.
+
+- **`radar.ipynb`**: El script en formato ipynb donde podemos ver el código realizado así como otras funciones que se han utilizado en el proyecto (creación de la imagen del primer frame para detectar las zonas)
+## Instalación
+
+Para ejecutar este proyecto localmente, sigue los siguientes pasos:
+
+### Clonar el repositorio
+
+```bash
+git clone https://github.com/tu_usuario/vision-por-ordenador.git
+cd vision-por-ordenador
 
