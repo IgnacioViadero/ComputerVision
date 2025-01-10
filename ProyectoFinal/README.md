@@ -12,7 +12,6 @@ A continuación, se describen los principales ficheros utilizados en este proyec
 
 - **`radar.ipynb`**: El script en formato ipynb donde podemos ver el código realizado así como otras funciones que se han utilizado en el proyecto (creación de la imagen del primer frame para detectar las zonas)
 - **`test.py`**: Ejemplo de código proporcionado de como extraer información de la cámara de la raspberry
-## Instalación
 - **`camara.py`**: Código que hemos utilizado previamente al fallo de la cámara para poder grabar con la raspberry camera y guardar el vídeo
 
 ## Requisitos del Sistema
@@ -30,6 +29,8 @@ El proyecto está compuesto por las siguientes partes:
 - Algoritmo de seguimiento de objetos
 - Cálculo de la velocidad y visualización de ella en tiempo real
 
+
+## Instalación
 
 Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
