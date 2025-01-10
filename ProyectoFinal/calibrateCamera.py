@@ -22,7 +22,7 @@ def get_chessboard_points(chessboard_shape, dx, dy):
     return objective_points
 
 def calibrateCamera():
-    imgs_path = glob.glob('../data/left/*jpg')
+    imgs_path = glob.glob('../assets/calibracion/*jpg')
     imgs = load_images(imgs_path)
 
     corners = []
