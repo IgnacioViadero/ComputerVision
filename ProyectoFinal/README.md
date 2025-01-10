@@ -13,6 +13,7 @@ A continuación, se describen los principales ficheros utilizados en este proyec
 - **`radar.ipynb`**: El script en formato ipynb donde podemos ver el código realizado así como otras funciones que se han utilizado en el proyecto (creación de la imagen del primer frame para detectar las zonas)
 - **`test.py`**: Ejemplo de código proporcionado de como extraer información de la cámara de la raspberry
 - **`camara.py`**: Código que hemos utilizado previamente al fallo de la cámara para poder grabar con la raspberry camera y guardar el vídeo
+- **`calibrateCamera.py`**: Código utilizado para calibrar la cámara de la raspberry, para ello utilizamos las funciones aprendidas en la practica 1 de la asignatura
 
 ## Requisitos del Sistema
 
