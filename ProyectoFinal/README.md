@@ -11,6 +11,7 @@ A continuación, se describen los principales ficheros utilizados en este proyec
 - **`rastreador.py`**: Implementa el algoritmo de seguimiento de objetos (coches) en los frames del video, permitiendo identificar cada coche y su trayectoria.
 
 - **`radar.ipynb`**: El script en formato ipynb donde podemos ver el código realizado así como otras funciones que se han utilizado en el proyecto (creación de la imagen del primer frame para detectar las zonas)
+- **`test.py`**: Ejemplo de código proporcionado de como extraer información de la cámara de la raspberry
 ## Instalación
 
 Para ejecutar este proyecto localmente, sigue los siguientes pasos:
