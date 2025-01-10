@@ -18,6 +18,6 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/vision-por-ordenador.git
-cd vision-por-ordenador
+git clone https://github.com/IgnacioViadero/ComputerVision
+cd ProyectoFinal
 
